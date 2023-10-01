@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int* selectionSort(int arr[], int size) {
@@ -44,4 +44,3 @@ int main()
         }
     }
 }
-*/
